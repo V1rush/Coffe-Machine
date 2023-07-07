@@ -1,0 +1,67 @@
+2023/05/11 10:36:05 | Water filled.
+2023/05/11 11:46:56 | Robusta beans filled.
+2023/05/11 11:47:12 | Double shot of Americano.
+2023/05/11 11:47:12 | Double shot of Americano.
+2023/05/11 11:47:12 | Double shot of Americano.
+2023/05/11 11:47:21 | Water filled.
+2023/05/11 11:47:22 | Double shot of Espresso.
+2023/05/11 11:47:24 | Double shot of Espresso.
+2023/05/11 11:47:24 | Double shot of Espresso.
+2023/05/11 11:47:24 | Double shot of Espresso.
+2023/05/11 11:47:24 | Double shot of Espresso.
+2023/05/11 11:47:24 | Double shot of Espresso.
+2023/05/11 11:47:24 | Double shot of Espresso.
+2023/05/11 11:47:26 | Drip tray cleaned.
+2023/05/11 11:47:27 | Double shot of Espresso.
+2023/05/11 11:47:29 | Water filled.
+2023/05/11 11:47:30 | Double shot of Espresso.
+2023/05/11 11:47:30 | Double shot of Espresso.
+2023/05/11 11:47:30 | Double shot of Espresso.
+2023/05/11 11:47:30 | Double shot of Espresso.
+2023/05/11 11:47:30 | Double shot of Espresso.
+2023/05/11 11:47:31 | Double shot of Espresso.
+2023/05/11 11:47:31 | Double shot of Espresso.
+2023/05/11 11:47:31 | Double shot of Espresso.
+2023/05/11 11:47:33 | Water filled.
+2023/05/11 11:47:35 | Arabica beans filled.
+2023/05/11 11:47:36 | Double shot of Espresso.
+2023/05/11 11:51:37 | Robusta beans filled.
+2023/05/11 12:47:53 | Water filled.
+2023/05/11 13:40:31 | Arabica beans filled.
+2023/05/11 13:40:49 | Double shot of Espresso.
+2023/05/11 13:40:50 | Double shot of Espresso.
+2023/05/11 13:40:51 | Double shot of Espresso.
+2023/05/11 13:40:51 | Double shot of Espresso.
+2023/05/11 13:40:51 | Double shot of Espresso.
+2023/05/11 13:40:51 | Double shot of Espresso.
+2023/05/11 13:40:51 | Double shot of Espresso.
+2023/05/11 13:40:51 | Double shot of Espresso.
+2023/05/11 13:40:51 | Double shot of Espresso.
+2023/05/11 13:40:52 | Double shot of Espresso.
+2023/05/11 13:40:53 | Drip tray cleaned.
+2023/05/11 13:40:55 | Water filled.
+2023/05/11 13:40:56 | Double shot of Espresso.
+2023/05/11 13:40:56 | Double shot of Espresso.
+2023/05/11 13:40:56 | Double shot of Espresso.
+2023/05/11 13:40:56 | Double shot of Espresso.
+2023/05/11 13:40:56 | Double shot of Espresso.
+2023/05/11 13:40:56 | Double shot of Espresso.
+2023/05/11 13:40:56 | Double shot of Espresso.
+2023/05/11 13:40:57 | Double shot of Espresso.
+2023/05/11 13:40:57 | Double shot of Espresso.
+2023/05/11 13:40:57 | Double shot of Espresso.
+2023/05/11 13:40:58 | Drip tray cleaned.
+2023/05/11 13:41:00 | Arabica beans filled.
+2023/05/11 13:41:00 | Double shot of Espresso.
+2023/05/11 13:41:02 | Water filled.
+2023/05/11 13:41:03 | Double shot of Espresso.
+2023/05/11 13:41:03 | Double shot of Espresso.
+2023/05/11 13:41:03 | Double shot of Espresso.
+2023/05/11 13:41:04 | Double shot of Espresso.
+2023/05/11 13:41:04 | Double shot of Espresso.
+2023/05/11 13:41:04 | Double shot of Espresso.
+2023/05/11 13:41:04 | Double shot of Espresso.
+2023/05/11 13:41:04 | Double shot of Espresso.
+2023/05/11 13:41:04 | Double shot of Espresso.
+2023/05/11 13:42:45 | Water filled.
+2023/05/11 13:42:47 | Robusta beans filled.

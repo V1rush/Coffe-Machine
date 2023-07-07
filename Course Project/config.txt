@@ -1,0 +1,4 @@
+Water level = 1000
+Robusta level = 200
+Arabica level = 100
+Number of served cups = 10
